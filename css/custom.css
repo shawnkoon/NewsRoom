@@ -4,6 +4,7 @@ body {
 
 .mainBody {
     padding-top: 70px;
+    margin-bottom: 30px;
 }
 
 
@@ -22,6 +23,7 @@ body {
 
 .chat {
     background-color: #e2e9f4;
+    margin-top: 40px;
 }
 
 .col-xs-offset-1 {
