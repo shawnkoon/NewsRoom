@@ -1,3 +1,23 @@
+body {
+    background-color: #f6f6f6;
+}
+
 .mainBody {
     padding-top: 70px;
+}
+
+.mainForm {
+    background-color: #fcd0bc;
+}
+
+.chat {
+    background-color: #e2e9f4;
+}
+
+.col-xs-offset-1 {
+    margin-left: 4.16666667%;
+}
+
+.col-xxs-offset-1 {
+    margin-left: 2.08888888%;
 }
