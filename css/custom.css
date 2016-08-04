@@ -6,8 +6,17 @@ body {
     padding-top: 70px;
 }
 
+
+/*
 .mainForm {
     background-color: #fcd0bc;
+}
+*/
+
+.feed {
+    border: 1px solid #ddd;
+    background-color: #fcd0bc;
+    padding: 15px;
 }
 
 .chat {
